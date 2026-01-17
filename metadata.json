@@ -1,0 +1,7 @@
+{
+  "name": "Gravimusic",
+  "description": "A premium, ultra-modern music streaming platform featuring an AI-driven Energy Grid mood filter, high-fidelity spatial audio simulation, and dynamic frequency-synced visual aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
